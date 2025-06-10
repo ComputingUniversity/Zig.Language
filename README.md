@@ -10,3 +10,6 @@ https://www.udemy.com/topic/zig/
 ## Course:
 - https://www.udemy.com/course/the-complete-zig-programming-course/
 - https://www.udemy.com/course/beginners-guide-to-zig/
+
+### Exercise Files:
+https://github.com/scottkds/CompleteZigCourse
