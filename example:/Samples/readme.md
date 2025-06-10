@@ -1,0 +1,2 @@
+- https://ziglang.org/learn/samples/
+- https://ziggit.dev/t/simple-code-examples-in-zig-for-beginners/558
