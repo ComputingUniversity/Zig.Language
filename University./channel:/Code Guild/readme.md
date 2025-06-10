@@ -1,0 +1,1 @@
+- [Programming Basics | Zig | Ep1](https://youtu.be/muH6v7rpXaE)
